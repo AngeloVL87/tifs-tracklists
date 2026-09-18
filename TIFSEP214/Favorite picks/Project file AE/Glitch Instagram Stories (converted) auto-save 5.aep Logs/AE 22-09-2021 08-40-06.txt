@@ -1,0 +1,8 @@
+  22/09/2021 08:40:06: Starting composition “1080x1080_Story 9”.
+
+  Output To: E:\Podcasts\02. THIS IS FREESTYLE\TIFSEP#214\Favorite picks\Avi\1080x1080_Story 9_6.avi    22/09/2021 08:41:37: Finished composition “1080x1080_Story 9”.
+
+
+  Total Time Elapsed: 1 Min, 31 Sec
+Log closed on 22/09/2021 at 08:41:37
+

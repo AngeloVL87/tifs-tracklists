@@ -1,0 +1,17 @@
+Adobe After Effects v16.0 Windows 64 render log for project “Glitch Instagram Timeline copy (converted).aep”
+
+Rendering started on 3/24/2021 at 11:07:51 AM
+
+  3/24/2021 11:07:51 AM: Starting composition “1080x1080_Story 17”.
+
+  Output To: H:\A-Style Podcasts\02. THIS IS FREESTYLE\TIFSEP#206\Timeline\1080x1080_Story 17.avi    3/24/2021 11:09:17 AM: Finished composition “1080x1080_Story 17”.
+
+
+  3/24/2021 11:09:17 AM: Starting composition “1080x1080_Story 17”.
+
+  Output To: H:\A-Style Podcasts\02. THIS IS FREESTYLE\TIFSEP#206\Timeline\1080x1080_Story 17_1.avi    3/24/2021 11:10:39 AM: Finished composition “1080x1080_Story 17”.
+
+
+  Total Time Elapsed: 2 Min, 48 Sec
+Log closed on 3/24/2021 at 11:10:39 AM
+

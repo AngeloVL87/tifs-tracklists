@@ -1,0 +1,17 @@
+Adobe After Effects v17.6 Windows 64 render log for project “Glitch Instagram Stories (converted) auto-save 5.aep”
+
+Rendering started on 20/10/2021 at 13:17:38
+
+  20/10/2021 13:17:38: Starting composition “1080x1080_Story 9”.
+
+  Output To: E:\Podcasts\02. THIS IS FREESTYLE\TIFSEP#216\1080x1080_Story 9_6.avi    20/10/2021 13:19:58: Finished composition “1080x1080_Story 9”.
+
+
+  20/10/2021 13:19:58: Starting composition “1080x1080_Story 9”.
+
+  Output To: E:\Podcasts\02. THIS IS FREESTYLE\TIFSEP#216\1080x1080_Story 9_7.avi    20/10/2021 13:21:49: Finished composition “1080x1080_Story 9”.
+
+
+  Total Time Elapsed: 4 Min, 11 Sec
+Log closed on 20/10/2021 at 13:21:49
+

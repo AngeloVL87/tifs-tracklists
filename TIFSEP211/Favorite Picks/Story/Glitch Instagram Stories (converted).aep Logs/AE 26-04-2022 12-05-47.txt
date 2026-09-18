@@ -1,0 +1,8 @@
+  26/04/2022 12:05:47: Starting composition “1080x1920_Story 9”.
+
+  Output To: D:\A-Style Podcasts\02. THIS IS FREESTYLE\TIFSEP#228\1080x1920_Story 9_1.avi    26/04/2022 12:07:22: Finished composition “1080x1920_Story 9”.
+
+
+  Total Time Elapsed: 1 Min, 34 Sec
+Log closed on 26/04/2022 at 12:07:22
+

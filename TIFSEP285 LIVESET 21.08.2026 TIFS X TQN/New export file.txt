@@ -1,0 +1,371 @@
+﻿
+(Use the $filename command if you want to set the exported file default name and/or its encoding)
+
+This is the header line of the export file
+
+Use the loop(...) command do loop over specific fields of your files e.g.
+
+
+	This part is shown for all different artists: Anime & Coda
+	You can even nest loops:
+
+	This will show the artists albums: ABSLT081
+	With its tracks:
+ Demons
+
+
+
+	This part is shown for all different artists: Arzadous
+	You can even nest loops:
+
+	This will show the artists albums: RSR143
+	With its tracks:
+ I Don't Mind
+
+
+
+	This part is shown for all different artists: Avi8
+	You can even nest loops:
+
+	This will show the artists albums: GBE201
+	With its tracks:
+ Piece Of U
+
+
+
+	This part is shown for all different artists: Bass Shaker & Pherox
+	You can even nest loops:
+
+	This will show the artists albums: DWX2202
+	With its tracks:
+ Walk Away
+
+
+
+	This part is shown for all different artists: Be Stronger
+	You can even nest loops:
+
+	This will show the artists albums: PR291
+	With its tracks:
+ Out Of My Head
+
+
+
+	This part is shown for all different artists: Deviation
+	You can even nest loops:
+
+	This will show the artists albums: BBR264
+	With its tracks:
+ Barbaric Records Tool
+
+
+
+	This part is shown for all different artists: D-Fence
+	You can even nest loops:
+
+	This will show the artists albums: IGR009
+	With its tracks:
+ MTFCKING LOUD (333CXT REMIX)
+
+
+
+	This part is shown for all different artists: Digital Mindz X Radicator
+	You can even nest loops:
+
+	This will show the artists albums: 
+	With its tracks:
+ Sting In The Tail
+
+
+
+	This part is shown for all different artists: Digital Punk & Andy Svge & Ravewalker
+	You can even nest loops:
+
+	This will show the artists albums: SCAN722D
+	With its tracks:
+ Heart Of A Raver
+
+
+
+	This part is shown for all different artists: Double Trouble
+	You can even nest loops:
+
+	This will show the artists albums: AFT3R211
+	With its tracks:
+ Inferno
+
+
+
+	This part is shown for all different artists: Ducal & Re-Vane
+	You can even nest loops:
+
+	This will show the artists albums: NEXT225PRO
+	With its tracks:
+ All In Me
+
+
+
+	This part is shown for all different artists: Earsquaker
+	You can even nest loops:
+
+	This will show the artists albums: EQ030
+	With its tracks:
+ Electrify Me
+
+
+
+	This part is shown for all different artists: Geck-O
+	You can even nest loops:
+
+	This will show the artists albums: DQ087PRO
+	With its tracks:
+ Soul Train (Ecstatic Remix)
+
+
+
+	This part is shown for all different artists: Guiberz & Silky Noize
+	You can even nest loops:
+
+	This will show the artists albums: PR285
+	With its tracks:
+ New Era
+
+
+
+	This part is shown for all different artists: Hellsystem
+	You can even nest loops:
+
+	This will show the artists albums: HM2753
+	With its tracks:
+ The Dark is Afraid Of Me
+
+
+
+	This part is shown for all different artists: Hydrosphearz
+	You can even nest loops:
+
+	This will show the artists albums: AVR20206066
+	With its tracks:
+ Somebody Save Me
+
+
+
+	This part is shown for all different artists: Invade
+	You can even nest loops:
+
+	This will show the artists albums: BT042
+	With its tracks:
+ Save Yourself
+
+
+
+	This part is shown for all different artists: Invade & Karun
+	You can even nest loops:
+
+	This will show the artists albums: MOHDIGI592
+	With its tracks:
+ The Lonely Chapter
+
+
+
+	This part is shown for all different artists: Jackro
+	You can even nest loops:
+
+	This will show the artists albums: NEXT227PRO
+	With its tracks:
+ After Midnight
+
+
+
+	This part is shown for all different artists: Jesse Jax
+	You can even nest loops:
+
+	This will show the artists albums: DWX2203
+	With its tracks:
+ Higher
+
+
+
+	This part is shown for all different artists: Keltek
+	You can even nest loops:
+
+	This will show the artists albums: SCAN725D
+	With its tracks:
+ Spaceman
+
+
+
+	This part is shown for all different artists: KNST & BITCRUSHR
+	You can even nest loops:
+
+	This will show the artists albums: HA040
+	With its tracks:
+ This Ache
+
+
+
+	This part is shown for all different artists: Kronos
+	You can even nest loops:
+
+	This will show the artists albums: KRYPREC006
+	With its tracks:
+ IO & TE (YOU & ME)
+
+
+
+	This part is shown for all different artists: Level One X Scarra
+	You can even nest loops:
+
+	This will show the artists albums: SCAN721D
+	With its tracks:
+ Run Away
+
+
+
+	This part is shown for all different artists: Lost In Time
+	You can even nest loops:
+
+	This will show the artists albums: AFT3R208
+	With its tracks:
+ The Power
+
+
+
+	This part is shown for all different artists: Mish
+	You can even nest loops:
+
+	This will show the artists albums: DWX2197
+	With its tracks:
+ TAKE ME 2 THE RAVE
+
+
+
+	This part is shown for all different artists: Noctua
+	You can even nest loops:
+
+	This will show the artists albums: NDR055
+	With its tracks:
+ Dopamine
+
+
+
+	This part is shown for all different artists: Potato & Playboyz ft. Axys
+	You can even nest loops:
+
+	This will show the artists albums: FREE RELEASE
+	With its tracks:
+ Smashed Potatoes Anthem
+
+
+
+	This part is shown for all different artists: Primeshock
+	You can even nest loops:
+
+	This will show the artists albums: DWX2200
+	With its tracks:
+ Funked Up
+
+
+
+	This part is shown for all different artists: Rekall & Sylence
+	You can even nest loops:
+
+	This will show the artists albums: MH088E
+	With its tracks:
+ Echo
+
+
+
+	This part is shown for all different artists: Resilience & Erabreak & Nathalie Blue
+	You can even nest loops:
+
+	This will show the artists albums: SCAN723
+	With its tracks:
+ Blow
+
+
+
+	This part is shown for all different artists: Revealer & Complex
+	You can even nest loops:
+
+	This will show the artists albums: SPM156
+	With its tracks:
+ Inside Your Mind
+
+
+
+	This part is shown for all different artists: Serzo & Digital Madness
+	You can even nest loops:
+
+	This will show the artists albums: DWX2193
+	With its tracks:
+ I Know You Want It
+
+
+
+	This part is shown for all different artists: Sickmode & Odium
+	You can even nest loops:
+
+	This will show the artists albums: INT038
+	With its tracks:
+ Make Me Feel
+
+
+
+	This part is shown for all different artists: Thyron
+	You can even nest loops:
+
+	This will show the artists albums: SCAN724D
+	With its tracks:
+ Stardust Skies
+
+
+
+	This part is shown for all different artists: Toxin & Nova & D'ort
+	You can even nest loops:
+
+	This will show the artists albums: BYM525D
+	With its tracks:
+ A Summer To Love
+
+
+
+	This part is shown for all different artists: Unresolved
+	You can even nest loops:
+
+	This will show the artists albums: RSR142
+	With its tracks:
+ Maze Of Scars
+
+
+
+	This part is shown for all different artists: Vexxed
+	You can even nest loops:
+
+	This will show the artists albums: ACR120
+	With its tracks:
+ Monster
+
+
+
+	This part is shown for all different artists: Visionized
+	You can even nest loops:
+
+	This will show the artists albums: HU2DZ157
+	With its tracks:
+ End Of Days
+
+
+
+	This part is shown for all different artists: Wiqtory & Attix
+	You can even nest loops:
+
+	This will show the artists albums: INNER043PRO
+	With its tracks:
+ All I Need
+
+
+
+Be sure to close the loops
+
+This is the footer line - Have fun :)

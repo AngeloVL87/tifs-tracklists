@@ -1,0 +1,8 @@
+  14/03/2022 12:25:31: Starting composition “1080x1080_Story 17”.
+
+  Output To: D:\A-Style Podcasts\02. THIS IS FREESTYLE\TIFSEP#223\Timeline\1080x1080_Story 17_3.avi    14/03/2022 12:26:29: Finished composition “1080x1080_Story 17”.
+
+
+  Total Time Elapsed: 58 Seconds
+Log closed on 14/03/2022 at 12:26:29
+
