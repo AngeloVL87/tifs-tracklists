@@ -1,0 +1,7 @@
+*.jpg  binary -delta
+*.jpeg binary -delta
+*.png  binary -delta
+*.webp binary -delta
+*.mp3  binary -delta
+*.json text eol=lf
+*.txt  text eol=lf
